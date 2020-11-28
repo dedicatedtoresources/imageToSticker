@@ -1,7 +1,7 @@
 exports.textTnC = () => {
     return `
 Source code / bot is an open-source program (free) written using Javascript, you can use, copy, modify, combine, publish, distribute, sub-license, and or sell copies without removing the main author of the source code / bot.
-By using this source code / bot, you agree to the following Terms and Conditions:
+By using thids source code / bot, you agree to the following Terms and Conditions:
 - Source code / bot does not store your data on our servers.
 - The source code / bot is not responsible for the stickers you make from this bot and the videos, images and other data that you get from the source code / bot.
 - Source code / bot may not be used for services that aim / contribute to:
